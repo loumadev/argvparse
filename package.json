@@ -1,0 +1,20 @@
+{
+  "name": "argvparse",
+  "version": "1.0.0",
+  "description": "Simple lightweight arguments parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arguments",
+    "arg",
+    "args",
+    "argv",
+    "parse",
+    "parser",
+    "cli"
+  ],
+  "author": "Jaroslav Louma",
+  "license": "GPL-3.0"
+}
